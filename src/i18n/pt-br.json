@@ -1,0 +1,25 @@
+{
+    "dashboard": "Dashboard",
+    "search": "Busca",
+    "calendar": "Calendrier",
+    "mailbox": "Caixa postal",
+    "widgets": "Widgets",
+    "social": "Social",
+    "charts": "Gráficos",
+    "media": "Mídia",
+    "overlays": "Sobreposições",
+    "snackbar": "Snackbar",
+    "authorization": "Autorização",
+    "login": "Identifique-se",
+    "users": "Usuários",
+    "widgetTodaysVisit": "Visitantes hoje",
+    "widgetTodaysSale": "Doações hoje",
+    "widgetUniqueVisits": " % Visitantes únicos",
+    "widgetBounceRate": "Taxa de rejeição",
+    "widgetHigherYesterday": "{0} a mais que ontem",
+    "widgetBeforeTax": "{0} antes dos impostos",
+    "widgetAverageDuration": "{0} duração média",
+    "widgetAverageTime": "{0} no tempo médio"
+  
+}
+  
